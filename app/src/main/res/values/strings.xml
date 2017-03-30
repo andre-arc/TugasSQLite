@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TugasSQLite</string>
+    <string name="tambah_data">Tambah Mahasiswa</string>
+    <string name="edit_data">Edit Mahasiswa</string>
+</resources>
